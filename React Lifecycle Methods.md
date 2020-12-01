@@ -51,16 +51,3 @@ React is divided into 4 parts
 
     [React Lifecycle Methods Diagram](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
 
-
-
-
-
-
-
-
-       constructor -> render -> componentDidMount 
-    if this.setState is called, it triggers: render -> componentDidUpdate ...
-    if this.setState is called, it triggers: render -> componentDidUpdate ...
-    ...
-    ...
-    
