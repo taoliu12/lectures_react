@@ -26,6 +26,6 @@ https://flaviocopes.com/react-presentational-vs-container-components/
 
 https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/
 
-* [Example Video](https://www.youtube.com/watch?v=lps-Eq2QWxk)
+
 
 
